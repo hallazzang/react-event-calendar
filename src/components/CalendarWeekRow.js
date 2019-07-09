@@ -8,7 +8,7 @@ const Row = styled.div`
   display: grid;
   flex-basis: 100%;
   grid-template-columns: repeat(7, 1fr);
-  grid-template-rows: 1.2rem repeat(5, 1fr);
+  grid-template-rows: 1.2rem repeat(5, 0.8rem);
   grid-auto-flow: dense;
   grid-gap: 3px 6px;
 `;
