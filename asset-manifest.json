@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/react-event-calendar/static/js/main.a613619c.chunk.js",
+    "main.js.map": "/react-event-calendar/static/js/main.a613619c.chunk.js.map",
+    "runtime~main.js": "/react-event-calendar/static/js/runtime~main.308ddf2f.js",
+    "runtime~main.js.map": "/react-event-calendar/static/js/runtime~main.308ddf2f.js.map",
+    "static/js/2.59744918.chunk.js": "/react-event-calendar/static/js/2.59744918.chunk.js",
+    "static/js/2.59744918.chunk.js.map": "/react-event-calendar/static/js/2.59744918.chunk.js.map",
+    "index.html": "/react-event-calendar/index.html",
+    "precache-manifest.a1adf4dee4acf3d80b805622ca46e4a7.js": "/react-event-calendar/precache-manifest.a1adf4dee4acf3d80b805622ca46e4a7.js",
+    "service-worker.js": "/react-event-calendar/service-worker.js"
+  }
+}
